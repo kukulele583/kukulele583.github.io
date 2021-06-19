@@ -1,0 +1,25 @@
+#show{
+	width:100%;
+	height: 300px;
+	text-align:center;
+	
+}
+
+#slika{
+	width:60%;
+	height:250px;
+}
+
+.dugme{
+	color:blue;
+	width:15%;
+	margin: 10px 0px;
+}
+
+#uvod{
+	text-align:center;
+}
+
+#razrada{
+	text-align:center;
+}
